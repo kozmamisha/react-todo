@@ -1,0 +1,86 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Фронтенд",
+      "colorId": 4
+    },
+    {
+      "name": "Личное",
+      "colorId": 6,
+      "id": 3
+    },
+    {
+      "name": "Покупки",
+      "colorId": 8,
+      "id": 4
+    },
+    {
+      "name": "React ToDo",
+      "colorId": 6,
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "listId": 1,
+      "text": "123",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "listId": 1,
+      "text": "111",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "listId": 5,
+      "text": "List",
+      "completed": true,
+      "id": 3
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
