@@ -49,20 +49,26 @@
     {
       "listId": 4,
       "text": "ghjhj",
-      "completed": true,
+      "completed": false,
       "id": 5
     },
     {
       "listId": 4,
       "text": "fhfgh",
-      "completed": true,
+      "completed": false,
       "id": 6
     },
     {
       "listId": 5,
       "text": "nghfm",
-      "completed": false,
+      "completed": true,
       "id": 7
+    },
+    {
+      "listId": 5,
+      "text": "1235",
+      "completed": true,
+      "id": 8
     }
   ],
   "colors": [

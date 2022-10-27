@@ -1,4 +1,4 @@
-const jsonServer = require('fake-json');
+const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('./src/assets/db.json');
 const middlewares = jsonServer.defaults({
